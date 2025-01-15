@@ -2,7 +2,8 @@
 
 ![Transformer Doctor](framewrok.png)
 
-This repository contains the implementation for Transformer Doctor, a toolkit designed to diagnose and treat Transformer models for improved performance. Below are the details on setting up the environment and utilizing the provided scripts for training and refinement steps.
+This repository contains the implementation for Transformer Doctor, a toolkit designed to diagnose and treat Transformer models for improved performance. Below are the details on setting up the environment and utilizing the provided scripts for training and refinement steps. For more information,
+please visit https://transformer-doctor.github.io/.
 
 ## Environment Setup
 
